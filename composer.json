@@ -1,5 +1,5 @@
 {
-    "name": "sirthxalot/laravel-parse",
+    "name": "asartec/laravel-parse",
     "description": "A Parse-SDK bridge for Laravel applications.",
     "keywords": ["laravel", "framework", "parse", "parse-sdk", "parse sdk", "ParseSDK", "parse bridge", "parse sdk bridge", "bridge", "laravel parse", "laravel-parse"],
     "license": "MIT",
