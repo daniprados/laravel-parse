@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Asartec\\Parse\\": "src/asartec/Parse"
+            "Sirthxalot\\Parse\\": "src/Sirthxalot/Parse"
         }
     },
     "config": {
